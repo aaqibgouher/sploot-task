@@ -11,7 +11,7 @@ Step 1: Run the command **'npm install'** to install all the dependencies mentio
 
 Step 2: Once the dependencies are installed, create an env file with PORT, JWT_SECRET_KEY & MONGO_URI, Insert data accordingly.
 
-Step 3. Start your applicaton by running **'npm run dev'**. It will start at the port.
+Step 3. Start your application by running **'npm run dev'**. It will start at the port.
 
 // **Note: Once done, start calling the end points.**
 
