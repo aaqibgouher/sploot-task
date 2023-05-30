@@ -14,3 +14,4 @@ Step 2: Once the dependencies are installed, create an env file with PORT, JWT_S
 Step 3. Start your applicaton by running **'npm run dev'**. It will start at the port.
 
 // **Note: Once done, start calling the end points.**
+// **Postman colletion: [Postman Collection](./sploot-api.postman_collection.json)**
